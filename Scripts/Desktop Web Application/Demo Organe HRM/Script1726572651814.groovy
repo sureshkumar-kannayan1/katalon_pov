@@ -45,7 +45,7 @@ WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/textarea_Comments
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/div_-- Select --'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Apply'))
+WebUI.takeFullPageScreenshotAsCheckpoint('Orange HRM screenshot')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Apply'))
 

@@ -56,6 +56,8 @@ WebUI.click(findTestObject('Object Repository/Mobile/Katalon demo website/Page_C
 WebUI.setText(findTestObject('Object Repository/Mobile/Katalon demo website/Page_CURA Healthcare Service/textarea_Comment_comment'), 
     'Testing purpose, ignore it.')
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Make appointment screenshot')
+
 WebUI.verifyElementClickable(findTestObject('Object Repository/Mobile/Katalon demo website/Page_CURA Healthcare Service/button_Book Appointment'))
 
 WebUI.click(findTestObject('Object Repository/Mobile/Katalon demo website/Page_CURA Healthcare Service/button_Book Appointment'))
