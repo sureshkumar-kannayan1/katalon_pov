@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Personal Loans</name>
+   <tag></tag>
+   <elementGuidId>fb184609-a19e-42fc-8c8a-0b8c3623c7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrap']/div/div[3]/div[2]/div[2]/a/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=/^Personal Loans$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>06a1a72f-8ed7-431e-9e1d-7d3ba869480d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#02254d</value>
+      <webElementGuid>ce13f553-194a-42d6-ab17-bba447498322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Typography__TextBold-sc-12f2dd0-8 etsMTR buttontext</value>
+      <webElementGuid>b605d6f7-aebe-4a79-b18c-fb8518bf6df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Loans</value>
+      <webElementGuid>0fde7218-7957-4979-907b-d1a71c669db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrap&quot;)/div[@class=&quot;HomePage__Wrapper-zuaelw-0 cdICgg&quot;]/div[@class=&quot;LayoutComponents__FullWidthWrapper-sc-3dcc8x-2 Choices__Wrapper-sc-1e8vwww-0 liMDPf uklTg&quot;]/div[@class=&quot;buttonWrapper&quot;]/div[@class=&quot;ChoiceButton__Wrapper1-sc-1sbpwxs-1 iEVvhY&quot;]/a[1]/div[@class=&quot;ChoiceButton__Wrapper-sc-1sbpwxs-0 flRzeE&quot;]/h3[@class=&quot;Typography__TextBold-sc-12f2dd0-8 etsMTR buttontext&quot;]</value>
+      <webElementGuid>871ee55f-4d02-4272-937b-f2f3c7c63a39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrap']/div/div[3]/div[2]/div[2]/a/div/h3</value>
+      <webElementGuid>a8bc6406-4d16-4871-b235-809f2db2ac86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debt Consolidation'])[2]/following::h3[1]</value>
+      <webElementGuid>d7b376c1-5d78-4934-b84c-4b33cbc4f88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you making the right choices?'])[1]/following::h3[2]</value>
+      <webElementGuid>95b99203-f5a2-4000-8e78-8b74a77370e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Back Credit Cards'])[1]/preceding::h3[1]</value>
+      <webElementGuid>34fbaa0c-0042-44be-9f99-0d0ffe60c54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debt Payoff Planner'])[1]/preceding::h3[2]</value>
+      <webElementGuid>58d777cf-c4e3-450e-9afd-f2c967c96a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/h3</value>
+      <webElementGuid>3db10ded-d414-4389-8340-0372db1de92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Personal Loans' or . = 'Personal Loans')]</value>
+      <webElementGuid>02627057-c2d2-4dde-b94f-b9ecfd2cc3ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

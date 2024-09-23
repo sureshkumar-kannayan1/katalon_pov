@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Next Step</name>
+   <tag></tag>
+   <elementGuidId>bf0e676f-6f26-42c6-8dee-058927d9fba3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='nextStep']/span/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.Typography__SimpleTextBold-sc-12f2dd0-7.checUa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Next Step&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>40eb5e9c-9ca1-467b-a351-40d0be22b90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>d82f843f-c1b2-4c80-ad2f-ecb37723f0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Typography__SimpleTextBold-sc-12f2dd0-7 checUa</value>
+      <webElementGuid>5cb67f95-0a73-4add-ac33-fd7c91a0d49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Step</value>
+      <webElementGuid>c5ca7b01-ca41-4720-9a42-51673d54173f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nextStep&quot;)/span[@class=&quot;MuiButton-label&quot;]/p[@class=&quot;Typography__SimpleTextBold-sc-12f2dd0-7 checUa&quot;]</value>
+      <webElementGuid>e66e02dd-dc2e-4404-b579-15bec173fc02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='nextStep']/span/p</value>
+      <webElementGuid>3bba365a-add0-4135-b0e7-d6b9aa866389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Didn’t find your option?'])[1]/following::p[1]</value>
+      <webElementGuid>e28e5948-40ed-40c7-a8d0-bc3cad28a958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student loan refinance'])[1]/following::p[1]</value>
+      <webElementGuid>0342fc72-0805-4f83-9fd9-d91dabc043f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to get a personal loan in easy steps on Credello'])[1]/preceding::p[1]</value>
+      <webElementGuid>a5d4556f-b59d-47f0-893c-b48da1d8c316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow the steps below to generate a list with the best personal loans available to you.'])[1]/preceding::p[1]</value>
+      <webElementGuid>0421129f-b810-434e-845a-2080d5279011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Step']/parent::*</value>
+      <webElementGuid>b6a7571e-0d28-4243-8ab0-2964ea914a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f5afb86e-4806-471c-806f-bfd6c86ac680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Next Step' or . = 'Next Step')]</value>
+      <webElementGuid>054d8a93-dd59-4f08-931d-d9fc7e3f5c14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

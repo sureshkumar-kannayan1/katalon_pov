@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recharges</name>
+   <tag></tag>
+   <elementGuidId>6bc08d58-f9bf-4fa7-ae01-f9b76714027d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div/div[2]/div/div/div[19]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(19) > div.-0XXWT._63VJT3 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Recharges&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53e729e6-31b3-4478-8ca0-8104dc62ca75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recharges</value>
+      <webElementGuid>8e62414c-f798-4147-9c53-4ade883dbe03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;zj0pdt&quot;]/div[@class=&quot;wDYZug&quot;]/div[@class=&quot;_4maWvF&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;Pg+ADy lgURlZ _12s07a&quot;]/div[@class=&quot;YF5puB IVjTZE&quot;]/div[19]/div[@class=&quot;-0XXWT _63VJT3&quot;]/span[1]</value>
+      <webElementGuid>50544c7a-4abd-429e-a7d2-99172df173fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div/div[2]/div/div/div[19]/div/span</value>
+      <webElementGuid>f092aa53-0bde-490a-92db-37ef1286d96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Loan'])[1]/following::span[1]</value>
+      <webElementGuid>c7a62738-3ce8-4e76-8d2c-8382d91a154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[1]/following::span[2]</value>
+      <webElementGuid>5c523d21-5434-4cd8-8e04-8d70ced99e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flipkart UPI'])[1]/preceding::span[2]</value>
+      <webElementGuid>36b0a920-923e-4a65-b26f-82012f242ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fees'])[1]/preceding::span[3]</value>
+      <webElementGuid>cbb49557-e190-46a3-908c-90135417ffbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recharges']/parent::*</value>
+      <webElementGuid>ca43c404-d337-4a07-99e9-7445ddfc6367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div/span</value>
+      <webElementGuid>21376cfc-e92e-424c-bae4-2a8a5c0bea04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recharges' or . = 'Recharges')]</value>
+      <webElementGuid>f134b0e7-0a58-466e-8778-8a05bbae85be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
